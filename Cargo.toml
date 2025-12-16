@@ -1,0 +1,9 @@
+[package]
+name = "typst-experiments"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4.42"
+typst = "0.14.2"
+typst-pdf = "0.14.2"

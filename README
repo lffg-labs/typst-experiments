@@ -1,0 +1,5 @@
+./scripts/download-font.sh
+
+cargo build --release
+
+./target/release/typst-experiments
